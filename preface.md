@@ -1,40 +1,35 @@
-# You Don't Know JS
-# Preface
+## شما جاوا اسکریپت بلد نیستید!
+## مقدمه
 
-I'm sure you noticed, but "JS" in the book series title is not an abbreviation for words used to curse about JavaScript, though cursing at the language's quirks is something we can probably all identify with!
+مطمئنم متوجه شدین اما منظور از «جاوا اسکریپت» توی عنوان این مجموعه، همون ملعون  نیست. هرچند احتمالا همه‌ی ما با خاطر نفرین کردن رفتارهای عجیب این زبان شناسایی می‌شیم!
 
-From the earliest days of the web, JavaScript has been a foundational technology that drives interactive experience around the content we consume. While flickering mouse trails and annoying pop-up prompts may be where JavaScript started, nearly 2 decades later, the technology and capability of JavaScript has grown many orders of magnitude, and few doubt its importance at the heart of the world's most widely available software platform: the web.
+از اولین روزهایی که وب به وجود آمد، جاوا اسکریپت تکنولوژی بنیادینی بود که برای ما امکان تعامل با محتوای وب رو فراهم می‌کرد. جاوا اسکریپت با ستاره‌هایی که دنبال ماوس کشیده می‌شدن و پاپ‌آپ‌های آزاردهنده شروع شد اما حدود ۲ دهه بعد، تکنولوژی و ظرفیت‌هاش به میزان زیادی رشد کرد، به طوری که امروز کمتر کسی به اهمیت جاوا اسکریپت در قلب بزرگترین پلتفرم نرم‌افزاری دنیا، یعنی وب، شک داره.
 
-But as a language, it has perpetually been a target for a great deal of criticism, owing partly to its heritage but even more to its design philosophy. Even the name evokes, as Brendan Eich once put it, "dumb kid brother" status next to its more mature older brother "Java". But the name is merely an accident of politics and marketing. The two languages are vastly different in many important ways. "JavaScript" is as related to "Java" as "Carnival" is to "Car".
+اما خب به عنوان یک زبان، همیشه نقدهای زیادی بهش وارد شده.  قسمتی به ارث‌بری و قسمت بیشتری به فلسفه‌ی طراحیش.  همونطور که برندن ایش هم یک بار گفته، اسمش تداعی کننده‌ی حالت «برادر کوچیکه‌ی خنگ» در کنار برادر بزرگ و بالغ یعنی «جاوا» ست. اما این نام‌گذاری صرفا جنبه‌ی سیاسی و تبلیغاتی داره. این دو زبان از جنبه‌های مختلف با هم بسیار تفاوت دارند. جاوا اسکریپت همونقدر شبیه جاواست که کارناوال شبیه کار.
+مفاهیم و ساختارهای جاوا اسکریپت از زبان‌های متعددی برگرفته شده. این زبان هم پارادایم Procedural سی رو داره هم پارادایم Functional لیسپ رو و دقیقا به همین علت برای عده‌ی زیادی از برنامه نویس ها قابل دستیابیه.  نوشتن Hello World  توی جاوا اسکریپت انقدر ساده‌ست که حتی افرادی که تجربه‌ی برنامه نویسی ندارند هم به یادگرفتنش ترغیب می شن و به سادگی باهاش خو میگیرند.
 
-Because JavaScript borrows concepts and syntax idioms from several languages, including proud C-style procedural roots as well as subtle, less obvious Scheme/Lisp-style functional roots, it is exceedingly approachable to a broad audience of developers, even those with just little to no programming experience. The "Hello World" of JavaScript is so simple that the language is inviting and easy to get comfortable with in early exposure.
+جاوا اسکریپت در عین اینکه یکی از ساده‌ترین زبان‌هاییه که می‌شه توش پیش رفت، رفتارهای غریبی داره که باعث می‌شه زمان بیشتری برای تسلط بهش نیاز باشه. در زبان هایی مثل C یا ++C برای نوشتن یک برنامه در ابعاد بزرگ به دانش عمیقی نیازه. اما برای نوشتن برنامه ای مشابه در جاوا اسکریپیت، به ندرت از قابلیت های واقعی زبان استفاده میشه.
 
-While JavaScript is perhaps one of the easiest languages to get up and running with, its eccentricities make solid mastery of the language a vastly less common occurrence than in many other languages. Where it takes a pretty in-depth knowledge of a language like C or C++ to write a full-scale program, full-scale production JavaScript can, and often does, barely scratch the surface of what the language can do.
+استفاده از مفاهیم پیچیده و عمقی زبان ظاهرا ساده است. مثل پاس دادن توابع به عنوان callback که برنامه نویس رو تشویق می کنه که از زبان همونطوری که هست استفاده کنه و به اتفاقاتی که پشت صحنه میفته توجه نکنه.
 
-Sophisticated concepts which are deeply rooted into the language tend instead to surface themselves in *seemingly* simplistic ways, such as passing around functions as callbacks, which encourages the JavaScript developer to just use the language as-is and not worry too much about what's going on under the hood.
+جاوا اسکریپت زبان ساده‌ایه که استفاده ازش راحته و درخواست‌های زیادی هم براش وجود داره اما همزمان زبان پیچیده‌ایه که مجموعه ای از مکانیزم‌های زبان‌های مختلف رو در خودش جای داده و بدون مطالعه‌ی درست حتی برنامه نویس های باتجربه هم ممکنه در فهم درستش دچار اشتباه بشن.
 
-It is simultaneously a simple, easy-to-use language that has broad appeal, and a complex and nuanced collection of language mechanics which without careful study will elude *true understanding* even for the most seasoned of JavaScript developers.
+پارادوکس جاوا اسکریپت همینجاست. پاشنه‌ی آشیل این زبان و چالشی که امروزه بهش اشاره می کنیم، دقیقا همین مسئلهست که چون جاوا اسکریپت بدون فهمیدن قابل استفاده است، برنامه نویس ها به ندرت می‌فهمندش.
 
-Therein lies the paradox of JavaScript, the Achilles' Heel of the language, the challenge we are presently addressing. Because JavaScript *can* be used without understanding, the understanding of the language is often never attained.
+## ماموریت
+اگه هر جایی که توی جاوا اسکریپت دچار غافلگیری یا ناامیدی می شید واکنشتون اینه که  اون مبحث رو بی‌خیال بشید، (همونطوری که خیلی‌ها به این کار عادت کردن) به زودی به پوسته‌ای تو خالی از مفاهیم نزول می‌کنید.
 
-## Mission
+با اینکه از این مجموعه  تحت عنوان «بخش‌های خوب» یاد می‌شه اما من از شما خواننده‌ی عزیز، می‌خواهم که ازش با عنوان‌های «بخش‌های آسان»، «بخش‌های امن» یا حتی «بخش‌های ناکامل» یاد کنید.
 
-If at every point that you encounter a surprise or frustration in JavaScript, your response is to add it to the blacklist, as some are accustomed to doing, you soon will be relegated to a hollow shell of the richness of JavaScript.
+مجموعه ی «شما جاوا اسکریپت نمی دانید» یک چالش متقابل است: «تمام» بخش های جاوا اسکریپت رو یاد بگیرید و عمیقا درک کنید. حتی «بخش‌های سخت» رو.
 
-While this subset has been famously dubbed "The Good Parts", I would implore you, dear reader, to instead consider it the "The Easy Parts", "The Safe Parts", or even "The Incomplete Parts".
+اکثر برنامه نویس‌های جاوا اسکریپت مایلند فقط به اندازه‌ی «نیاز» یاد بگیرند،  بدون اینکه خودشون رو مجبور کنند که بدونند چطور و چرا جاوا اسکریپت این طور رفتار میکنه. در واقع وقتی شرایط سخت می‌شه، همه ترجیح می‌دهند فرار کنند.
+من از این برخورد راضی نیستم و شما هم نباید باشید:  اینکه وقتی یک چیزی کار میکند روند یادگیری رو متوقف کنیم و ندونیم چرا داره کار می‌کنه.  ازتون می‌خوام این چالش رو بپذیرید که در مسیر ناهمواری که کمتر کسی قدم برداشته سفر کنیم و تمام چیزهایی که جاوا اسکریپت میتونه انجام بده رو در آغوش بگیریم. با این دانش، هیچ تکنیک، فریم‌ورک و  هیچ چیز عجیب و غریبی فراتر از درک ما نخواهد بود.
+هرکدام از این کتاب‌ها یکی از مفاهیم اصلی رو بیان میکند که معمولا اشتباه یا کم فهمیده شده‌اند و به طرز بسیار عمیق و طاقت‌فرسایی بهش می پردازند. بعد از خواندن این کتاب‌ها دیگه می‌تونید به فهمتون از زبان اعتماد کنید و این مسئله چه در تئوری چه در عمل به چشم میاد. 
+جاوا اسکریپتی که الان بلدید احتمالا بخش هایی هست که توسط افرادی با دانش ناقص بهتون منتقل شده. «اون» جاوا اسکریپت سایه‌ای از واقعیت این زبانه.  شما واقعا هنوز جاوا اسکریپت بلد نیستید  اما اگه این کتاب ها رو عمیقا بخونید، یاد خواهید گرفت. به خوندن ادامه بدین دوستان من، جاوا اسکریپت منتظرتونه.
 
-This *You Don't Know JavaScript* book series offers a contrary challenge: learn and deeply understand *all* of JavaScript, even and especially "The Tough Parts".
+## خلاصه
+جاوا اسکریپت فوق‌العاده است. یادگیری جزییش ساده است اما یادگیری کاملش خیلی سخت‌تره. وقتی برنامه‌نویس‌ها گیج می‌شوند،  معمولا به جای دانش ناکافی خودشون، زبان رو مقصر می دونند.  هدف این کتاب‌ها تصحیح این تفکر و به تقدیر واداشتن شما از زبانیه که دیگه می‌تونید و باید عمیقا بفهمید.
 
-Here, we address head on the tendency of JS developers to learn "just enough" to get by, without ever forcing themselves to learn exactly how and why the language behaves the way it does. Furthermore, we eschew the common advice to *retreat* when the road gets rough.
+نکته: خیلی از مثال‌های این کتاب با فرض استفاده از موتور مدرن جاوا اسکریپت (مثل ES6) نوشته شده و اگر از موتورهای قدیمی‌تر استفاده کنید،  ممکنه با نتیجه‌ی متفاوتی مواجه بشید.
 
-I am not content, nor should you be, at stopping once something *just works*, and not really knowing *why*. I gently challenge you to journey down that bumpy "road less traveled" and embrace all that JavaScript is and can do. With that knowledge, no technique, no framework, no popular buzzword acronym of the week, will be beyond your understanding.
-
-These books each take on specific core parts of the language which are most commonly misunderstood or under-understood, and dive very deep and exhaustively into them. You should come away from reading with a firm confidence in your understanding, not just of the theoretical, but the practical "what you need to know" bits.
-
-The JavaScript you know *right now* is probably *parts* handed down to you by others who've been burned by incomplete understanding. *That* JavaScript is but a shadow of the true language. You don't *really* know JavaScript, *yet*, but if you dig into this series, you *will*. Read on, my friends. JavaScript awaits you.
-
-## Summary
-
-JavaScript is awesome. It's easy to learn partially, and much harder to learn completely (or even *sufficiently*). When developers encounter confusion, they usually blame the language instead of their lack of understanding. These books aim to fix that, inspiring a strong appreciation for the language you can now, and *should*, deeply *know*.
-
-Note: Many of the examples in this book assume modern (and future-reaching) JavaScript engine environments, such as ES6. Some code may not work as described if run in older (pre-ES6) engines.
