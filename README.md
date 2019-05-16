@@ -1,6 +1,8 @@
-# You Don't Know JS (book series)
+<div dir="rtl">
+  
+# شما جاوا اسکریپت بلد نیستید! (مجموعه کتاب)
 
-This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.
+این مجموعه کتاب عمیقا به مکانیزم‌های بنیادی و اصلی زبان جاوا اسکریپت می‌پردازه وا لآن  ویرایش اول مجموعه کامل است.
 
 <a href="http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
 <a href="http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/"><img src="scope %26 closures/cover.jpg" width="75"></a>&nbsp;
@@ -9,49 +11,63 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 <a href="http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/"><img src="async %26 performance/cover.jpg" width="75"></a>&nbsp;
 <a href="http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/"><img src="es6 %26 beyond/cover.jpg" width="75"></a>
 
-Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing processes, and are thus not necessarily as important for this repository.
+می‌تونین رای بهبود محتوا، بهتر کردن قطعه کدها، توضیحات و سایر موارد (به خصوص ترجمه) مشارکت کنین. اکثر اشتباهات تایپی طی روند ویرایش کتاب رفع شده‌اند با این حال ممکنه هنوز وجود داشته باشن ولی برای این ریپو اهمیت زیادی ندارند.
 
-**To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
 
-## Titles
+**برای اینکه بیشتر از انگیزه و دورنمای این مجموعه مطلع بشین،[مقدمه](preface.md) رو مطالعه کنین.**
 
-* Read online (free!): ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going), Published: [Buy Now](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/) in print, but the ebook format is free!
-* Read online (free!): ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures), Published: [Buy Now](http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/)
-* Read online (free!): ["this & Object Prototypes"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes), Published: [Buy Now](http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/)
-* Read online (free!): ["Types & Grammar"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar), Published: [Buy Now](http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/)
-* Read online (free!): ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance), Published: [Buy Now](http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/)
-* Read online (free!): ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond), Published: [Buy Now](http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/)
+## عنوان‌ها
 
-## Publishing
+* آنلاین بخوانید (و رایگان!): ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going),  به صورت کاغذی هم منتشر شده: [Buy Now](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/)  
+* آنلاین بخوانید (و رایگان!): ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures), به صورت کاغذی هم منتشر شده: [Buy Now](http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/)
+* آنلاین بخوانید (و رایگان!): ["this & Object Prototypes"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes), به صورت کاغذی هم منتشر شده: [Buy Now](http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/)
+* آنلاین بخوانید (و رایگان!): ["Types & Grammar"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar), به صورت کاغذی هم منتشر شده: [Buy Now](http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/)
+* آنلاین بخوانید (و رایگان!): ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance), به صورت کاغذی هم منتشر شده: [Buy Now](http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/)
+* آنلاین بخوانید (و رایگان!): ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond), به صورت کاغذی هم منتشر شده: [Buy Now](http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/)
 
-These books are being released here as drafts, free to read, but are also being edited, produced, and published through O'Reilly.
+## چاپ کاغذی
 
-If you like the content you find here, and want to support more content like it, please purchase the books once they are available for sale, through your normal book sources. :)
+این کتاب‌ها به عنوان پیش‌نویس اینجا منتشر شده‌اند، رایگانند اما در حال ویرایش هم هستندو هم‌چنین توسط O'Reilly تولید و منتشر شده‌اند.
 
-If you'd like to contribute financially towards the effort (or any of my other OSS work) aside from purchasing the books, I do have a [patreon](https://www.patreon.com/getify) that I would always appreciate your generosity towards.
+ :) اگه از محتوایی که اینجا خوندین، خوشتون آمده و می‌خواین محتوای  این‌چنینی بیشتری رو حمایت کنین، از طریق منابع معمولتون کتاب‌های چاپ شده رو تهیه کنید
+
+اگه می‌خواین جدا از خرید کتاب، حمایت مالی کنین، من (نویسنده نه مترجم)  [patreon](https://www.patreon.com/getify) دارم و همواره بابت سخاوتمندی‌تون ازتون متشکرم.
 
 <a href="https://www.patreon.com/getify">[![patreon.png](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/getify)</a>
 
-## In-person Training
+## آموزش حضوری
 
-The content for these books derives heavily from a series of training materials I teach professionally (in both public and private-corporate workshop format): "Deep JavaScript Foundations", "Rethinking Async", and "ES6: The Right Parts" workshops.
+محتوای این کتاب‌ها  از مجموعه مواردی که من برای تدریس تخصصی (به صورت ورکشاپ های خصوصی و عمومی) استفاده  می‌کنم، مشتق شده و شامل ورکشاپ‌های زیر است: «اصول عمیق جاوا اسکریپت»،«تفکر دوباره درمورد نامتقارن» و ES6: قسمت‌های درست»
 
-If you like this content and would like to contact me regarding conducting training on these, or other various JS/HTML5/node.js topics, please reach out to me through email: getify @ gmail
+اگه این محتوا رو دوست دارین و تمایل دارین برای تدریس این موارد یا مباحث مختلف جاوا اسکریپت/HTML5/node.js با من تماس بگیرین، می‌تونین از طریق ایمیل زیر این کار رو انجام بدین:
+getify @ gmail
 
-## Online Video Training
+## آموزش‌های ویدویی آنلاین
 
-I also have some JS training material available in on-demand video format. I teach courses through [Frontend Masters](https://FrontendMasters.com), like my [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) workshop. You can find [all my courses here](https://frontendmasters.com/kyle-simpson/).
+من تعدادی آموزش ویدیویی آنلاین جاوا اسکریپت هم دارم که این دوره‌ها رو از طریق [Frontend Masters](https://FrontendMasters.com) تدریس می‌کنم.
+به عنوان مثال ورکشاپ اصول عمیق جاوا اسکریپت رو می‌تونین اینجا ببینین.
+[Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) 
+و همچنین بقیه‌ی دوره‌ها رو[all my courses here](https://frontendmasters.com/kyle-simpson/).
 
-Some of those courses are also distributed on other platforms, like Pluralsight, Lynda.com, and O'Reilly Safari Online.
+بعضی از این دوره‌ها از پلتفرم‌های دیگه‌ای هم قابل دسترسند مثل Pluralsight, Lynda.com و O'Reilly Safari Online
 
-## Contributions
+## مشارکت
 
-Any contributions you make to this effort **are of course greatly appreciated**.
+هر مشارکتی که انجام می‌شه **قطعا  قابل تقدیره**
 
-But **PLEASE** read the [Contributions Guidelines](CONTRIBUTING.md) carefully before submitting a PR.
+اما **لطفا**  [راهنمای مشارکت](CONTRIBUTING.md) رو قبل از PR با دقت بخونین.
+
+## ترجمه
+
+چند نکته در باب ترجمه:
+*  من مترجم حرفه‌ای نیستم و قطعا توی کار ایرادات ترجمه، نگارشی و ویرایشی دیده می‌شه. تا حد توان و دانشم سعی بر رفع کردن این موارد دارم و پذیرای پیشنهادات و انتقادات برای بهتر کردنش هستم.
+*  لحن کتاب سعی شده به صورت محاوره باشه تا خواندنش ساده‌تر و روان‌تر باشه
+* از اون جایی که ترجمه‌ی کلمات تخصصی همواره دغدغه‌ی تولید محتوای روان و قابل فهم بوده، من سعی کردم به غیر از اصطلاحاتی که ترجمه‌ی روان و رایجی دارن، همون فرم انگلیسی کلمه رو استفاده کنم و اگر جایی هم ترجمه‌ای صورت گرفته که به زعم خودم با عبارت انگلیسی تفاوت زیادی داشته سعی کردم حتما توی پرانتز معادل انگلیسی رو برای فهم بهتر بیارم.
+* ترجمه‌ی این کتاب کاملا آزاد و رایگانه و قطعا از مشارکت شما استقبال می‌شه :)
 
 ## License & Copyright
 
-The materials herein are all &copy; 2013-2018 Kyle Simpson.
+کلیه‌ی حقوق این محتوا متعلق به &copy; 2013-2018 Kyle Simpson. است
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />تحت لایسنس <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
+</div>
