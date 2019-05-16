@@ -18,12 +18,12 @@
 
 ## عنوان‌ها
 
-* آنلاین بخوانید (و رایگان!): ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going),  به صورت کاغذی هم منتشر شده: [Buy Now](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/)  
-* آنلاین بخوانید (و رایگان!): ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures), به صورت کاغذی هم منتشر شده: [Buy Now](http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/)
-* آنلاین بخوانید (و رایگان!): ["this & Object Prototypes"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes), به صورت کاغذی هم منتشر شده: [Buy Now](http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/)
-* آنلاین بخوانید (و رایگان!): ["Types & Grammar"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar), به صورت کاغذی هم منتشر شده: [Buy Now](http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/)
-* آنلاین بخوانید (و رایگان!): ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance), به صورت کاغذی هم منتشر شده: [Buy Now](http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/)
-* آنلاین بخوانید (و رایگان!): ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond), به صورت کاغذی هم منتشر شده: [Buy Now](http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/)
+* آنلاین بخوانید (و رایگان!): ["Up & Going"](up\%20&\%20going/README.md#you-dont-know-js-up--going),  به صورت کاغذی هم منتشر شده: [خرید](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/)  
+* آنلاین بخوانید (و رایگان!): ["Scope & Closures"](scope\%20&\%20closures/README.md#you-dont-know-js-scope--closures), به صورت کاغذی هم منتشر شده: [خرید](http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/)
+* آنلاین بخوانید (و رایگان!): ["this & Object Prototypes"](this\%20&\%20object\%20prototypes/README.md#you-dont-know-js-this--object-prototypes), به صورت کاغذی هم منتشر شده: [خرید](http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/)
+* آنلاین بخوانید (و رایگان!): ["Types & Grammar"](types\%20&\%20grammar/README.md#you-dont-know-js-types--grammar), به صورت کاغذی هم منتشر شده: [خرید](http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/)
+* آنلاین بخوانید (و رایگان!): ["Async & Performance"](async\%20&\%20performance/README.md#you-dont-know-js-async--performance), به صورت کاغذی هم منتشر شده: [خرید](http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/)
+* آنلاین بخوانید (و رایگان!): ["ES6 & Beyond"](es6\%20&\%20beyond/README.md#you-dont-know-js-es6--beyond), به صورت کاغذی هم منتشر شده: [خرید](http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/)
 
 ## چاپ کاغذی
 
@@ -63,6 +63,10 @@ getify @ gmail
 *  لحن کتاب سعی شده به صورت محاوره باشه تا خواندنش ساده‌تر و روان‌تر باشه
 * از اون جایی که ترجمه‌ی کلمات تخصصی همواره دغدغه‌ی تولید محتوای روان و قابل فهم بوده، من سعی کردم به غیر از اصطلاحاتی که ترجمه‌ی روان و رایجی دارن، همون فرم انگلیسی کلمه رو استفاده کنم و اگر جایی هم ترجمه‌ای صورت گرفته که به زعم خودم با عبارت انگلیسی تفاوت زیادی داشته سعی کردم حتما توی پرانتز معادل انگلیسی رو برای فهم بهتر بیارم.
 * ترجمه‌ی این کتاب کاملا آزاد و رایگانه و قطعا از مشارکت شما استقبال می‌شه :)
+* شما می‌تونید هربخشی از کتاب که تمایل دارید رو انتخاب و ترجمه کنین. برای کمی منظم‌تر شدن اوضاع لیست قسمت‌های در دست ترجمه رو اینجا میارم.
+
+**قسمت‌های در دست ترجمه:**
+* Up&Going: Chapter 1
 
 ## License & Copyright
 
