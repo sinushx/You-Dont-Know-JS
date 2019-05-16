@@ -2,7 +2,7 @@
   
 # شما جاوا اسکریپت بلد نیستید! (مجموعه کتاب)
 
-این مجموعه کتاب عمیقا به مکانیزم‌های بنیادی و اصلی زبان جاوا اسکریپت می‌پردازه وا لآن  ویرایش اول مجموعه کامل است.
+این مجموعه کتاب عمیقا به مکانیزم‌های بنیادی و اصلی زبان جاوا اسکریپت می‌پردازه و الآن  ویرایش اول مجموعه کامله.
 
 <a href="http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
 <a href="http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/"><img src="scope %26 closures/cover.jpg" width="75"></a>&nbsp;
@@ -45,9 +45,8 @@ getify @ gmail
 ## آموزش‌های ویدویی آنلاین
 
 من تعدادی آموزش ویدیویی آنلاین جاوا اسکریپت هم دارم که این دوره‌ها رو از طریق [Frontend Masters](https://FrontendMasters.com) تدریس می‌کنم.
-به عنوان مثال ورکشاپ اصول عمیق جاوا اسکریپت رو می‌تونین اینجا ببینین.
-[Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/) 
-و همچنین بقیه‌ی دوره‌ها رو[all my courses here](https://frontendmasters.com/kyle-simpson/).
+به عنوان مثال ورکشاپ[اصول عمیق جاوا اسکریپت](https://frontendmasters.com/courses/javascript-foundations/)  رو می‌تونین اینجا ببینین.
+و همچنین [بقیه‌ی دوره‌ها](https://frontendmasters.com/kyle-simpson/) رو.
 
 بعضی از این دوره‌ها از پلتفرم‌های دیگه‌ای هم قابل دسترسند مثل Pluralsight, Lynda.com و O'Reilly Safari Online
 
