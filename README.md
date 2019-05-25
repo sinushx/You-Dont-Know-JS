@@ -67,6 +67,7 @@ getify @ gmail
 
 **قسمت‌های در دست ترجمه:**
 * Up&Going: Chapter 1
+* ES6&Beyond: Chapter 2
 
 ## License & Copyright
 
